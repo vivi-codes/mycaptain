@@ -1,0 +1,3 @@
+list1 = [12, -7, 5, 64, -14] ,  [12, 14, -95, 3]
+res = [[y for y in x if y > 0] for x in list1]
+print("List of positive numbers :", res)
