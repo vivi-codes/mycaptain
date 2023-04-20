@@ -1,0 +1,12 @@
+import sys
+print ('Phyton:{}'.format(sys.version))
+import scipy
+print ('Scipy:{}'.format(scipy.version))
+import numpy
+print ('Numpy:{}'.format(numpy.version))
+import matplotlib
+print ('Matplotlib:{}'.format(matplotlib.version))
+import pandas
+print ('Pandas:{}'.format(pandas.version))
+import sklearn
+print ('Sklearn:{}'.format(sklearn.version))
